@@ -1,9 +1,17 @@
 {
     "recommendations": [
-        "eg2.vscode-npm-script",
-        "idered.npm",
-        "trabpukcip.vscode-npm-scripts",
-        "herrmannplatz.npm-dependency-links",
-        "tabnine.tabnine-vscode"
+        "ms-azuretools.vscode-azurefunctions",
+        "vscjava.vscode-java-debug",
+        "ms-vscode-remote.remote-containers",
+        "ms-azuretools.vscode-docker",
+        "george3447.docker-run",
+        "shivaprasanth.dothttp-code",
+        "github.vscode-github-actions",
+        "github.codespaces",
+        "ms-vscode.vscode-github-issue-notebooks",
+        "github.vscode-pull-request-github",
+        "github.remotehub",
+        "vscjava.vscode-gradle",
+        "ms-vscode.vscode-typescript-next"
     ]
 }
